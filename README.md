@@ -1,9 +1,10 @@
-![Alt Text](https://media.giphy.com/media/zqRW71lAQCgPcovvI8/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/zqRW71lAQCgPcovvI8/giphy.gif" alt="animated" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kakati</h1>
 <h3 align="center">I code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkakati101" alt="abhishekkakati101" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/notrealabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/notrealabhishek?logo=twitter&style=for-the-badge" alt="notrealabhishek" /></a> </p>
 
