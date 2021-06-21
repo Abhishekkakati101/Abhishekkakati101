@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Abhishek Kakati</h1>
 
-<h3 align="center">An computer science undergraduate student who is into Web Development and Machine Learning</h3>
+<h3 align="center">A computer science undergraduate student who is into Web Development and Machine Learning</h3>
 
 
 <h3 align="center">Connect with me:</h3>
