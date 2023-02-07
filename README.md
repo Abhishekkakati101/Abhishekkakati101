@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/zqRW71lAQCgPcovvI8/giphy.gif" alt="animated" />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Abhishek Kakati</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,I'm Abhishek Kakati</h1>
 
 <h3 align="center">A computer science undergraduate student who is into Artificial Intelligence and Web Development</h3>
 
